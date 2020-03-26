@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "195cfc62-e62c-4002-80d1-b6a95ec827f8",
+            "Value": {
+                "id": "76ac514f-553b-4f41-9d07-2a80f78d4a74",
+                "resourcePath": "sprites\\sor_test2\\sor_test2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "412cfb59-6502-426f-befe-ffb2f3f9c5fb",
             "Value": {
                 "id": "05fa2f44-4fad-4ab1-8f59-c75e1028e778",
