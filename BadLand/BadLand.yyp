@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "56c9a5d5-08e4-401f-8268-6d5da74f27db",
+            "Value": {
+                "id": "749a3cd6-c0b7-47b3-b4eb-7b8668ed8169",
+                "resourcePath": "sprites\\spr_Alix\\spr_Alix.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "605586ab-115e-4423-a9a5-5062a8bd0ebd",
             "Value": {
                 "id": "31f15e1e-2d04-4aee-ae19-7f19ddc8cd20",
